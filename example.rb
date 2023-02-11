@@ -1,4 +1,5 @@
 # Ruby
+# Examples from canvas
 require 'pry'
 dog = "cuddly"
 def feed_dog(dog)
